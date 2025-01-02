@@ -12,22 +12,14 @@ Feliz Natal 2024
 - 📩 Entrar em Contato: 👇🏼
 
 <a href="https://www.linkedin.com/in/renzo-leandro-50153a2b7" rel="nofollow" title="Entrar no Linkedin">
-<img src="https://img.shields.io/badge/-Mois%C3%A9s-57b000?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Mois%C3%A9s-57b000?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/renzo-leandro-50153a2b7-barsoti-468869278" style="max-width: 100%;">
 </a>
 <a href="mailto:renzoleandro948@gmail.com" title="Enviar um E-mail">
-<img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-57b000?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-renzoleandro948@gmail.com-57b000?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:renzoleandro948@gmail.com" style="max-width: 100%;">
 </a>
 
 
 ---
-
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesBarsoti&show_icons=true&theme=dracula)
-
- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=387&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moisesBarsoti&layout=compact&langs_count=8&card_width=386&theme=dark" />
-</a>
 
 
 <h2>Linguagens</h2> 
