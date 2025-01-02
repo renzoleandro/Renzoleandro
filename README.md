@@ -14,7 +14,7 @@ Feliz Natal 2024
 <a href="https://www.linkedin.com/in/renzo-leandro-50153a2b7" rel="nofollow" title="Entrar no Linkedin">
 <img src="https://img.shields.io/badge/-Mois%C3%A9s-57b000?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/renzo-leandro-50153a2b7-barsoti-468869278" style="max-width: 100%;">
 </a>
-<a href="mailto:renzoleandro948@gmail.com" title="Enviar um E-mail">
+<a href="renzo:renzoleandro948@gmail.com" title="Enviar um E-mail">
 <img src="https://img.shields.io/badge/-renzoleandro948@gmail.com-57b000?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:renzoleandro948@gmail.com" style="max-width: 100%;">
 </a>
 
