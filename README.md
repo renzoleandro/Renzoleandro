@@ -11,8 +11,13 @@ Feliz Natal 2024
 - 🎇 Eu tenho 19 anos
 - 📩 Entrar em Contato: 👇🏼
 
-<a href="https://www.linkedin.com/in/renzo-leandro-501532b7" rel="nofollow" title="Entrar no Linkedin">
-<img src="https://img.shields.io/badge/-renzo%C3%A9-57b000?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/renzo-leandro-50153a2b7-renzo-468869278" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/renzo-leandro-50153a2b7" rel="" title="Entrar no Linkedin">
+
+
+//<img src="https://img.shields.io/badge/-renzo%C3%A9-57b000?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/renzo-leandro-50153a2b7-renzo-468869278" style="max-width: 100%;">
+
+//<a href="https://www.linkedin.com/in/renzo-leandro-50153a2b7" rel="nofollow" title="Entrar no Linkedin">
+
 </a>
 <a href="renzo:renzoleandro948@gmail.com" title="Enviar um E-mail">
 <img src="https://img.shields.io/badge/-renzoleandro948@gmail.com-57b000?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:renzoleandro948@gmail.com" style="max-width: 100%;">
@@ -22,7 +27,7 @@ Feliz Natal 2024
 ---
 
 
-<h2>Linguagens</h2> 
+<h2>Linguagens que eu ja usei no técnico e superior.</h2> 
 
 <div style="display: flex;"><br> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,8 +36,8 @@ Feliz Natal 2024
   CSS
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   Javascript 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  Typescript 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  Python
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   PHP  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
