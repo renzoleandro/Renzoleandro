@@ -23,7 +23,7 @@ Feliz Natal 2024
 ---
 
 
-<h2>Linguagens que eu ja usei no técnico e superior.</h2> 
+<h2>Linguagens de Programação Texto e Estilo que eu ja usei no Curso Técnico e Faculdade.</h2> 
 
 <div style="display: flex;"><br> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
